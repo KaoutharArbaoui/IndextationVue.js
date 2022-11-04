@@ -21,9 +21,7 @@ npm run lint
 ```
 
 
-###############################################################
-Consulter le repositorie IndexationJava pour la parti Back-end
-###############################################################
+Consult the IndexationJava repository for the Back-end part
 
 
 
